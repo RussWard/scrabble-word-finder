@@ -1,0 +1,24 @@
+{
+  "name": "scrabble-word-finder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RussWard/scrabble-word-finder.git"
+  },
+  "author": "Russ Ward",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RussWard/scrabble-word-finder/issues"
+  },
+  "homepage": "https://github.com/RussWard/scrabble-word-finder#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2"
+  }
+}
